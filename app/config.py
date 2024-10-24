@@ -1,2 +1,3 @@
-TOKEN = "7496057686:AAGeT2gSuLCXg8qx8OQRw04Jlk6-i_q9ARM"
+TOKEN = ""
 list = []
+links = []
