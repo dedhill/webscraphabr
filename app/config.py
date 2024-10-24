@@ -1,3 +1,2 @@
 TOKEN = ""
 list = []
-links = []
